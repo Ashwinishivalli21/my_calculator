@@ -1,8 +1,8 @@
 {
-  "name": "calculator-demo",
+  "name": "my_calculator",
+  "homepage": "https://ashwinishivalli21.github.io/my_calculator",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://ashwinishivalli21.github.io/my_calculator",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -15,4 +15,5 @@
     "eject": "react-scripts eject"
   }
 }
+
 
